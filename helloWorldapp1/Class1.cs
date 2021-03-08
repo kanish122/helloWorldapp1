@@ -8,5 +8,7 @@ namespace helloWorldapp1
 {
     class Class1
     {
+        public int EmpId { get; set; }
+        public string EmpName { get; set; }
     }
 }
